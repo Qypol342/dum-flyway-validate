@@ -1,9 +1,9 @@
 <div align="center">
-  <img width=200 alt="logo Dum Flyway Validate" src="doc/assets/logo.svg">
+  <img width=200 alt="logo Dumb Flyway Validate" src="doc/assets/logo.svg">
 
-  # Dum Flyway Validate
+  # Dumb Flyway Validate
 
-  Dum Flyway Validate is a command-line tool to locally validate Flyway migrations. It ensures migration consistency using Git and specific conditions.
+  Dumb Flyway Validate is a command-line tool to locally validate Flyway migrations. It ensures migration consistency using Git and specific conditions.
 
 </div>
 
@@ -48,7 +48,7 @@ To allow for integration with the GitLab Merge Request interface, follow these s
 
 ## Continuous Integration Example
 
-Here is an example of integrating Dum Flyway Validate into your CI pipeline:
+Here is an example of integrating Dumb Flyway Validate into your CI pipeline:
 
 ```yaml
 stages:
